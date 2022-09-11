@@ -1,0 +1,41 @@
+body {
+    background-color: lightblue ;
+}
+.rounded-img img{
+    border-radius: 50%;  
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.vertical-center td{
+    vertical-align: middle;
+}
+ul.a {
+    list-style-position: square;
+    
+  }
+
+hr {
+    height: 0px;
+    width: 10%;
+    border: 0px;
+    border-top: 5px;
+    border-top-style : dotted;
+}
+footer {
+    bottom: 0px;
+    margin: auto;
+    text-align: center;
+    padding: 10px 30px;
+}
+
+.aligncenter {
+    text-align: center;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
